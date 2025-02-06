@@ -1,0 +1,17 @@
+streamlit
+langchian-groq
+langchain_openai
+python-dotenv
+pypdf
+pandas
+openpyxl
+xlrd
+requests
+zipfile
+google-generativeai
+google-generativeai-client
+chromadb
+unstructured
+pdf2image
+pdfminer
+langchain_chroma
