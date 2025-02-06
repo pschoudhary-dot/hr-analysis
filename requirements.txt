@@ -7,11 +7,12 @@ pandas
 openpyxl
 xlrd
 requests
+langchain-community
 zipfile
 google-generativeai
 google-generativeai-client
 chromadb
 unstructured
-pdf2image
+pypdf
 pdfminer
 langchain_chroma
